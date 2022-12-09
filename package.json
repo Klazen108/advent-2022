@@ -1,0 +1,23 @@
+{
+  "name": "advent-2022",
+  "version": "1.0.0",
+  "description": "advent of code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klazen108/advent-2022.git"
+  },
+  "author": "klazen108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klazen108/advent-2022/issues"
+  },
+  "homepage": "https://github.com/Klazen108/advent-2022#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
