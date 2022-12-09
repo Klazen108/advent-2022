@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Klazen108/advent-2022#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "axios": "^1.2.1"
   }
 }
